@@ -1,3 +1,11 @@
+/lib/
+/LICENSES/
+/sound/
+/samples/
+/script/
+/security/
+/virt/
+/usr/
 # SPDX-License-Identifier: GPL-2.0-only
 #
 # NOTE! Don't add files that are generated in specific
